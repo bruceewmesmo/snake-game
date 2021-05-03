@@ -1,2 +1,5 @@
-# snake-game
-  Snake game coded during Kenzie Python Imersion
+# 🐍 Snake Game Project
+
+  Snake game coded during Kenzie's Python Imersion
+  
+  Tks Kenzie Academy Brasil 💙
